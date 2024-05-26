@@ -46,6 +46,10 @@ This dashboard analyzes demographic data related to technology usage, including 
 In today's data-driven world, the ability to extract meaningful insights from data is crucial. This capstone project not only solidified my understanding of data analysis concepts but also provided practical experience in solving real-world problems. By exploring this repository, you can see firsthand the depth of my analytical capabilities and my commitment to continuous learning.
 
 
+## Links
+* [Coursera Specialization](https://www.coursera.org/professional-certificates/ibm-data-analyst#courses)
+
+
 ## Contact
 I'm always excited to connect with fellow data enthusiasts, potential employers, and anyone interested in data analytics. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chintan-patel2251/).
 
